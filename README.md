@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18212e,100:a07a22&height=180&section=header&text=Varsha%20Kumari&fontSize=46&fontColor=ffffff&desc=Software%20Developer%20%7C%20.NET%20Core%20%C2%B7%20Web%20API%20%C2%B7%20Angular%20%C2%B7%20SQL%20Server&descSize=16&descAlignY=72&animation=fadeIn" alt="Varsha Kumari banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18212e,100:a07a22&height=200&section=header&text=Varsha%20Kumari&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20.NET%20Core%20%C2%B7%20Web%20API%20%C2%B7%20Angular%20%C2%B7%20SQL%20Server&descSize=16&descAlignY=56&animation=fadeIn" alt="Varsha Kumari banner" />
 </p>
 
 <p align="center">
