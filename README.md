@@ -31,19 +31,19 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dapper-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/ADO.NET-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-1e3a8a?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-1e3a8a?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-1e3a8a?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-1e3a8a?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1e3a8a?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-1e3a8a?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-1e3a8a?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/ADO.NET-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-1e3a8a?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-1e3a8a?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-1e3a8a?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-1e3a8a?style=flat-square&logo=microsoftteams&logoColor=white" />
 </p>
 
 ### 🚀 What I've worked on
